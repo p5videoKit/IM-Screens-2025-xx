@@ -80,9 +80,9 @@ Begining in 2024 we will also use:
 
 ## Time | Location | Dates
 
-- IMNY-UT 281 004 Topics in Media Art
+<!-- - IMNY-UT 281 004 Topics in Media Art
 - 09:00 AM - 12:00 PM Tuesday
-- 370 Jay St Room 410 Loc: Brooklyn Campus
+- 370 Jay St Room 410 Loc: Brooklyn Campus -->
 
 | Week | Date       |
 | :--- | :--------- |
