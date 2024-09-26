@@ -60,13 +60,13 @@ Begining in 2024 we will also use:
 
 - [Week 5 ](weeks/00_xxx.md) Public facing interactive art. Interaction design for public art.
 
-- [Week 6 ](weeks/00_xxx.md) Time as input. UI Options: raw DOM, p5 DOM, enincompres/DOM.js, lit.dev
+- [Week 6 ](weeks/00_xxx.md) Time as input. Creating your UI - options: raw DOM, p5 DOM, enincompres/DOM.js, lit.dev
 
 - [Week 7 ](weeks/00_xxx.md) Pixel manipulation: raw buffers pixels and GLSL shaders
 
 - [Week 8 ](weeks/00_xxx.md) p5VideoKit effects and plugins code libraray architecture - digging deep
 
-- [Week 9 ](weeks/00_xxx.md) Designing for the multi-user experience. The cloud: Firebase realtime database.
+- [Week 9 ](weeks/00_xxx.md) Designing the multi-user experience. The cloud: Firebase realtime database.
 
 - [Week 10 ](weeks/00_xxx.md) Privacy and your data. The cloud: Firebase media storage.
 
