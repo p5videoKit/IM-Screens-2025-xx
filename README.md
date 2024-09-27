@@ -54,7 +54,7 @@ Begining in 2024 we will also use:
 
 - [Week 3 ](weeks/03_tool.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs, electron, rollup, npm packages
 
-- [Week 4 ](weeks/00_xxx.md) Open source library architecture - p5VideoKit behind the scenes.
+- [Week 4 ](weeks/04_xxx.md) p5VideoKit as an open source library - an overview:
   Building an effects plugin.
   Workflow for contributing to an open source project.
 
@@ -64,7 +64,7 @@ Begining in 2024 we will also use:
 
 - [Week 7 ](weeks/00_xxx.md) Pixel manipulation: raw buffers pixels and GLSL shaders
 
-- [Week 8 ](weeks/00_xxx.md) p5VideoKit effects and plugins code libraray architecture - digging deep
+- [Week 8 ](weeks/00_xxx.md) p5VideoKit effects and plugins code library architecture - digging deep
 
 - [Week 9 ](weeks/00_xxx.md) Designing the multi-user experience. The cloud: Firebase realtime database.
 
